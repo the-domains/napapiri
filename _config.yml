@@ -1,7 +1,7 @@
 name: napapiri
 favicon: null
 layout_spectrum: 0.24384979926981032
-typography_spectrum: 0.742090466665104
+typography_spectrum: 0.90785
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#eaeae8'
+    - '#94a4bd'
+    - '#16211c'
+    - '#63391e'
+    - '#a8612d'
   brandStrength: 0.10840041283518076
   lightness: 0.9715607350226492
   saturation: 0.3025659976992756
