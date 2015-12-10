@@ -1,6 +1,6 @@
 name: napapiri
 favicon: null
-layout_spectrum: 0.51151
+layout_spectrum: 0.48777
 typography_spectrum: 0.90785
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#16211c'
     - '#63391e'
     - '#a8612d'
-  brandStrength: 0.10840041283518076
-  lightness: 0.9715607350226492
-  saturation: 0.3025659976992756
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
