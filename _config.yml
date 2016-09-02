@@ -1,19 +1,4 @@
-name: napapiri
-favicon: null
-layout_spectrum: 0.48777
 typography_spectrum: 0.90785
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#eaeae8'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48777
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: napapiri
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: we do ice
 purpose: []
